@@ -1,0 +1,3 @@
+[
+    {"function":"EVP_EncryptInit","param":{"CTX":"NAN","CIPHER":"EVP_aes_128_ecb","PASSWD":"NAN","IV":"NAN"},"misuse":"using aes with ecbmode"}
+]
